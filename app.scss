@@ -1,0 +1,79 @@
+
+@use 'base';
+@use 'header';
+@use 'home';
+@use 'footer';
+@use 'components';
+
+
+
+// body
+//     padding: 0
+//     margin: 0
+    
+// *
+//     padding: 0
+//     margin: 0
+
+// // MEDIA SIZES
+// @mixin screen-sm
+//     @media only screen and (max-width: 546px)
+//         @content
+
+// @mixin screen-md
+//     @media only screen and (max-width: 720px)
+//         @content
+
+// @mixin screen-lg
+//     @media only screen and (max-width: 960px)
+//         @content
+
+// @mixin screen-mx
+//     @media only screen and (max-width: 1600px)
+//         @content
+
+
+// MIXINS
+// @mixin flex-center
+//     display: flex
+//     justify-content: center
+//     align-items: center
+// @mixin flex-column-center
+//     display: flex
+//     flex-direction: column
+//     justify-content: center
+//     align-items: center
+// @mixin img-absolute-cover
+//     position: absolute
+//     height: 100%
+//     width: 100%
+//     left: 0
+//     top: 0
+//     object-fit: cover
+// @mixin absolute-center
+//     position: absolute
+//     left: 0
+//     right: 0
+//     top: 0
+//     bottom: 0
+//     margin: auto
+
+// // FONTS
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap')
+
+// //COLORS
+// $white: #fff
+// $cyan: #3C8171
+// $grey: #B7B7B7
+// $cyan-claro: #92FFE6
+
+// h1,h2,h3,h4,h5,h6,p,span,a,button,div
+//     font-family: 'Poppins', 'sans-serif'
+// h1
+//     font-weight: bold
+// h2,h3,h4,h5,h6
+//     font-weight: lighter
+// p
+//     font-weight: lighter
+//     line-height: 150%
+
